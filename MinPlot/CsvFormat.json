@@ -1,0 +1,4 @@
+{ "skip"    : 1,
+  "header"  : 1,
+  "xcolumn" : { "start": 2, "interval" : 2 },
+  "ycolumn" : { "start": 3, "interval" : 2 } }

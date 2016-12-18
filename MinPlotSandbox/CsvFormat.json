@@ -1,0 +1,5 @@
+{ "path"    : "data-source-path.csv",
+  "skip"    : 1,
+  "header"  : 1,
+  "xcolumn" : 2,
+  "ycolumn" : 3 }

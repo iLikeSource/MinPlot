@@ -1,0 +1,2 @@
+{ "ext"      : ".+_his\\d+_Iso.csv",
+  "template" : "resp-d_isolator-hysteresis.json" } 
